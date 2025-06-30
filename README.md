@@ -1,6 +1,6 @@
 # Vision MultiBox - Professional Multi-Boxing Tool
 
-🏰 **Vision MultiBox v0.55 - Professional Multi-Boxing Solution**
+🏰 **Vision MultiBox v0.55 - Professional Multi-Boxing Solution for World of Warcraft, Lineage 2, Eve Online and many more ..**
 
 🎯 **Key Features:**
 * Real-time key broadcasting to multiple game windows
