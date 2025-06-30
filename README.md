@@ -40,6 +40,10 @@
 
 **Requirements:** Windows 10/11, Administrator privileges recommended
 
+How To Video : 
+
+[![Watch the video on YouTube](https://github.com/user-attachments/assets/fdf1ba0a-1e34-4e98-9959-dd01d53e0ab4)](https://www.youtube.com/watch?v=IRfydyMv7DY)
+
 🔗 Download Latest Version: https://github.com/VisionBot-Pro/VisionMultiBox/releases/download/v0.55/VisionMultiBox.exe
 
 💬 Community: https://discord.gg/gCV9PVbtDz
