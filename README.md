@@ -39,3 +39,11 @@
 * No interference with normal gameplay when disabled
 
 **Requirements:** Windows 10/11, Administrator privileges recommended
+
+🔗 Download Latest Version: https://github.com/VisionBot-Pro/VisionMultiBox/releases/download/v0.55/VisionMultiBox.exe
+
+💬 Community: https://discord.gg/gCV9PVbtDz
+
+☕ Support: https://buymeacoffee.com/visionbot
+
+⚠️ Use responsibly and follow server rules!
